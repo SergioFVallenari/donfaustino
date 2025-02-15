@@ -1,0 +1,44 @@
+{
+  "navs": [
+    {
+      "title": "",
+      "menu": [
+        {
+          "href": "/Dashboard",
+          "icon": "leaderboard",
+          "text": "dashboard"
+        },
+        {
+          "href": "/Articulos",
+          "icon": "inventory_2",
+          "text": "articulos"
+        },
+        {
+          "href": "/Ingredientes",
+          "icon": "category",
+          "text": "ingredientes"
+        },
+        {
+          "href": "/Compras",
+          "icon": "receipt_long",
+          "text": "compras"
+        },
+        {
+          "href": "/Carta",
+          "icon": "restaurant_menu",
+          "text": "carta"
+        },
+        {
+          "href": "/Ventas",
+          "icon": "attach_money",
+          "text": "ventas"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "icon": "lock",
+    "path": "/login",
+    "text": "cerrar sesión"
+  }
+}

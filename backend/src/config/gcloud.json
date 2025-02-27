@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "donfaustino",
+  "private_key_id": "17cd03571eafc99dedadab96caab0fab2e678045",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOYgWFMlu10M5y\nZ/NRzJAbITWAIYOnutuBtCnMVaHJLNKf9XgT4IhU1hvv6u4C6fmOK5NQT65jXwvj\nMJmL5fWwQ04QHbkifE5u0gVU6f9KT5lz521Rv4nSFR7N5ZdNe+58QQgnyI30yZoR\ny6aST1INKXT3W+ZwrGecBKV+MuyERrV3wJppBjsgABLod+7MeQ51advnpJY4hsDh\nAi5Brqoe2Il4wlfhNa6SjfNhhrqzeJrhpgCtnoz6r+CJWka5vQeyLYiGyMdf/KPZ\nlUMU2ojvPFbU4h3P3tc5+p+aG+VTMdzCVFEeM8idrtFc0L6L4YxXY3cmpBSxsWKB\nVKqXCmKbAgMBAAECggEABeLQYuQBe8lIpThz8JCW4lplAuv+klfA1ecNzOv7F4uf\nNpYS7O8AHfp83nyC4EAzCiWrZ5fckq0nX70T/zDsrzCKnYJzgSYuO6viugq+z99x\n5XCjjGub7ySdQpfT/Y8IyX0DUgfx87OVbZqzLyrZXYW7diiMhTvthb4XyDMeNFS3\nNkKNLqP9IpveXgrVlznG9rMKQXRVBosW4GVlgmPa/SVsKH06jEcsqWMpjawWyI7V\n5Vz0DCjZ+WMLqLqQNxanOMc3RSCMW85EROdWl0r5LZlowmrG2GK4o0UpfVYDocYF\nIrs6REy5YxusTNPs4rYV/8o7NqQ4K02qbC+ztiJUCQKBgQDrQ+SKLTbsS+nKojPt\nsAhgjTgXa4STlnDJEYJVio26P9Mcem/kbV1b6uBQ8SaZUIJn6zzv6m06aUHpIQyw\nQJ4shlW+6zQ3T8/CtaGWb/bl2bxarmNarU5pKh+A4Z558/Fdb8m7TPVXHEOvoSvB\ntCYspCuel3cPcFBAOTk8aJQLswKBgQDgknrFmlU1ImAU+tbTV9UP2nhWctApr16K\n7QhYLRnRV3POAPCcvxAP2VoYKzPlouThIGWczoUO0f3o3YcbVcm+vzKaGkUSE3WA\nWhDArX7V1UBwbfHKP6VzZBpLH/BEtW+8LqzooszxXvo3nqjLHqDpMCqg35HFICWp\nEydDsLI5eQKBgELlZDeyEZrxHwJCSve8BTXHEfr+1IzOyzUxKFlAc3pRKatAWU6f\nlltLlwsM9wfDL8Fyzzn886AXS+mJPz1isldAv2LxKEDODep0kQTgw1iqJ/e0/IVN\nIC2hD6IrBU/yAGCsJ7V9dYmWfNyUvIdwvSYWbFzE/tLCAd+xJcg6iFYnAoGAEeMY\n7ExSpRzL0l/4ZHUGf3DDTP9wHSHeweoHVB6jg80XaD0i7Rk6ykhhqLMoOw4ydMwD\ny+2XI4sOUlHyxPacTxkjiqq0/a+XGFYUJ4SqKZYGv+3B6H4RS5OZlIpCtPZOpAqD\nszPkZwVNoMh+YU9bObegbZfhIHZjCYiBBB860uECgYBpshS63rDkDg7zdWC831wF\nyPyNprWwMdGnHcon5U59TbdkNPd1FPJj2L3q2hprzsaeXkA/lskqYB6XApr3RlVO\nglsc5qRB6l6qmvfXx/TTn+WwzURfsj+2rdA2BKaF00bps0nUHAka+RVDGpXKsjAD\ntE9CLSNGCqlm3r/0T+d4EA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "donfaustinostorage@donfaustino.iam.gserviceaccount.com",
+  "client_id": "105579354624826811933",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/donfaustinostorage%40donfaustino.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
